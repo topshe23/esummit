@@ -1,4 +1,4 @@
-html{
+html{background-color: #00020b;
   height:100vh;
   overflow:hidden;}
 
@@ -197,7 +197,7 @@ span{color: transparent;
 footer{
   height:160px;
   width:100vw;
-  background-color: #010838;
+  background-color: #00020b;
   color: #f1f1f1;
   display:inline;}
 #address{
@@ -209,7 +209,7 @@ footer{
   float:left;}
 #getint{
   height:160px;
-  width:49.5vw;
+  width:49vw;
   background-color: #010207;
   color: #f1f1f1;
   float:left;}
